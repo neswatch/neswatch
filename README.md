@@ -1,5 +1,8 @@
 # 👋 Hi there, I'm Julien!
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square&link=https://www.linkedin.com/in/julien-linget/)](https://www.linkedin.com/in/julien-linget/)
+
+
 ## 🎓 About me
 I am a second-year student of B.U.T. degree in Computer science, taking the courses of application realization at the IUT Lyon 1.
 
