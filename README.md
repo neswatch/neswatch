@@ -16,9 +16,6 @@ I also like to play video games and enjoy music while walking and enjoying the l
 ## 💻 Development
 I am a big fan of Object-Oriented Programming and I enjoy solving coding problems on platforms like Codingame. I also like to participate in Clash of Codes on Codingame. 😄
 
-### 🕊️ Time to open sources !
-I would like to contribute in open source projects ! Feel free to give me advices, I'm always eager to learn 😉 !
-
 >Thank you for taking the time to read about me. Feel free to connect with me on Github and let's code together! 😄
 
 
