@@ -18,6 +18,6 @@ I am a big fan of Object-Oriented Programming and I enjoy solving coding problem
 
 >Thank you for taking the time to read about me. Feel free to connect with me on Github and let's code together! 😄
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=neswatch)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=neswatch&count_private=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 
