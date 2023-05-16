@@ -19,7 +19,7 @@ I am a big fan of Object-Oriented Programming and I enjoy solving coding problem
 >Thank you for taking the time to read about me. Feel free to connect with me on Github and let's code together! 😄
 
 <div align=center>
-  <img alt="Most Used Languages" width="328" height="200" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=neswatch&hide=html&langs_count=6&hide_border=true&theme=synthwave&custom_title=My%20Most%20Used%20Languages&layout=compact&border_radius=10">
-  <img alt="Github statsé" width="328" height="200" src="https://github-readme-stats.vercel.app/api?username=neswatch&count_private=true&theme=synthwave">
+  <img alt="Most Used Languages" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=neswatch&hide=html&langs_count=6&hide_border=true&theme=synthwave&custom_title=My%20Most%20Used%20Languages&count_private=true">
+  <img alt="Github statsé" src="https://github-readme-stats.vercel.app/api?username=neswatch&count_private=true&theme=synthwave">
 </div>
 
