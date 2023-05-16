@@ -20,6 +20,6 @@ I am a big fan of Object-Oriented Programming and I enjoy solving coding problem
 
 <div align=center>
   <img alt="Most Used Languages" width="300" height="200" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=neswatch&hide=html&langs_count=6&hide_border=true&theme=synthwave&custom_title=My%20Most%20Used%20Languages&count_private=true">
-  <img alt="Github statsé" width="300" height="200" src="https://github-readme-stats.vercel.app/api?username=neswatch&count_private=true&theme=synthwave">
+  <img alt="Github stats" width="300" height="200" src="https://github-readme-stats.vercel.app/api?username=neswatch&count_private=true&theme=synthwave">
 </div>
 
