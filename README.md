@@ -17,5 +17,3 @@ I also like to play video games and enjoy music while walking and enjoying the l
 I am a big fan of Object-Oriented Programming and I enjoy solving coding problems on platforms like Codingame. I also like to participate in Clash of Codes on Codingame. 😄
 
 >Thank you for taking the time to read about me. Feel free to connect with me on Github and let's code together! 😄
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=neswatch&count_private=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
